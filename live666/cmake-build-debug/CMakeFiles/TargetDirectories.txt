@@ -1,0 +1,7 @@
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/live666.dir
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/install/local.dir
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/install.dir
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/edit_cache.dir
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/list_install_components.dir
+V:/RECORD_TEST/refref/flvpusher/live666/cmake-build-debug/CMakeFiles/install/strip.dir

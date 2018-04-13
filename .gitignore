@@ -1,0 +1,4 @@
+*.idea/
+live666/cmake-build-debug/CMakeFiles/live666.dir/
+live666/cmake-build-debug/CMakeFiles/3.10.2/
+live666/.idea/
